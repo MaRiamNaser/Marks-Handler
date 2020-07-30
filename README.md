@@ -31,3 +31,8 @@
 
 
 ![116783745_896191394205046_802918246804482425_n](https://user-images.githubusercontent.com/38191133/88966688-ff709e80-d2ac-11ea-92f8-f99394a9e570.jpg)
+
+
+**Students can join to any lecture in a subject and attend this lecture by its code or solve the assignment if it is available.**
+
+![116710979_913544559149144_552127519761090993_n](https://user-images.githubusercontent.com/38191133/88967496-31cecb80-d2ae-11ea-8931-00f37295bc26.jpg)
