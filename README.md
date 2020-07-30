@@ -8,6 +8,7 @@
 ![116420327_2584549065132182_1055850790528961230_n](https://user-images.githubusercontent.com/38191133/88962850-4eb3d080-d2a7-11ea-8982-ba7133b4d377.jpg)
 
 **Inside each Subject, Doctor can start lectures to students or upload Assignments**
+**Also can see who attended from students and all students who solve the assignment and their grade**
 
 ![116433908_2777589229138326_8040903137572250512_n](https://user-images.githubusercontent.com/38191133/88962969-7e62d880-d2a7-11ea-895a-a5fcde4f9ff2.jpg)
 
@@ -18,3 +19,15 @@
 **Upload Assignment**
 
 ![116479538_210204270403675_1421834036808206475_n](https://user-images.githubusercontent.com/38191133/88963358-047f1f00-d2a8-11ea-8459-a7f3ab45cae9.jpg)
+
+
+**Sign in as a student**
+
+
+![116274593_887124965030464_9215777524293329534_n](https://user-images.githubusercontent.com/38191133/88966514-b9b3d600-d2ac-11ea-83dd-417831c78d7b.jpg)
+
+
+**Student can Join to any subject by the code that the doctor launched**
+
+
+![116783745_896191394205046_802918246804482425_n](https://user-images.githubusercontent.com/38191133/88966688-ff709e80-d2ac-11ea-92f8-f99394a9e570.jpg)
