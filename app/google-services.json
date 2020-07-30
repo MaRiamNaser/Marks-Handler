@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39470185863",
+    "firebase_url": "https://assu-556ac.firebaseio.com",
+    "project_id": "assu-556ac",
+    "storage_bucket": "assu-556ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39470185863:android:2e9a9c02e5993fb429e722",
+        "android_client_info": {
+          "package_name": "com.example.assu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39470185863-t7gm3hlsc8v4budiakvrte2kgrbuuvip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZapaNbIUgH_6eZKIvkK5BHegdgMEXwWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39470185863-t7gm3hlsc8v4budiakvrte2kgrbuuvip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

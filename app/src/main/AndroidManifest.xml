@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.assu">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AddSubject"></activity>
+        <activity android:name=".lecture_student" />
+        <activity android:name=".ListOFStudents" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".student" />
+        <activity android:name=".ListViewForAllStudentsWhoOpenedTheAssignment" />
+        <activity android:name=".ListViewLecturesForDoctors" />
+        <activity android:name=".StartAssignmentsForDoctors" />
+        <activity android:name=".StartAttendanceForDoctors" />
+        <activity android:name=".EverySubjectInDetails" />
+        <activity android:name=".AssignmentTest" />
+        <activity android:name=".AssignmentsList" />
+        <activity android:name=".Attandance" />
+        <activity android:name=".AttendanceAndAssignment" />
+        <activity android:name=".LoginActivityMain">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

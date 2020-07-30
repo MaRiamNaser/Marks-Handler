@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Login</string>
+    <string name="attendance">Attendance</string>
+    <string name="assignments">Assignments</string>
+</resources>
